@@ -27,4 +27,9 @@ public class PlayerController : MonoBehaviour
     {
         return transform.position.y > minHeight;
     }
+
+    private int two()
+    {
+        return 2;
+    }
 }
